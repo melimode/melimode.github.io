@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72aa166c.css",
+    "main.js": "/static/js/main.76933dea.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero-video.mp4": "/static/media/hero-video.a4400afc589eae95ae0c.mp4",
+    "static/media/gang.jpg": "/static/media/gang.642370549a12d99f303e.jpg",
+    "static/media/teenage.jpg": "/static/media/teenage.05145665165de01331e6.jpg",
+    "static/media/aboutus-2.jpg": "/static/media/aboutus-2.dd0895e2b27226f87799.jpg",
+    "static/media/retro.jpg": "/static/media/retro.b87895ed9c39cf1556d3.jpg",
+    "static/media/register-img.jpg": "/static/media/register-img.f12ec7f11c36ed6af006.jpg",
+    "static/media/aboutus-1.jpg": "/static/media/aboutus-1.550aa2aecbfc0fd7f1e3.jpg",
+    "static/media/aboutus-3.jpg": "/static/media/aboutus-3.528892d38520ef0f2e88.jpg",
+    "static/media/elegent.jpg": "/static/media/elegent.0ae4e5799b6f535020df.jpg",
+    "static/media/Vazir.ttf": "/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/pirahan.jpg": "/static/media/pirahan.266dbcba7c770ee716a8.jpg",
+    "static/media/underware.jpg": "/static/media/underware.bac95d040b90d83f9ef7.jpg",
+    "static/media/kif.jpg": "/static/media/kif.222fc91576f273cbe0d9.jpg",
+    "static/media/atr.jpg": "/static/media/atr.39e6fa86554b90a33803.jpg",
+    "static/media/tshirt.jpg": "/static/media/tshirt.121161fbef150ddf56fa.jpg",
+    "index.html": "/index.html",
+    "main.72aa166c.css.map": "/static/css/main.72aa166c.css.map",
+    "main.76933dea.js.map": "/static/js/main.76933dea.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72aa166c.css",
+    "static/js/main.76933dea.js"
+  ]
+}
